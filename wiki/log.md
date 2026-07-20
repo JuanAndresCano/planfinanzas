@@ -89,3 +89,10 @@ tareas de Ingest de ADRs y de requisitos funcionales a "Completadas recientement
 Con esto, todas las fuentes existentes en `docs/` (spec, 6 ADRs, requisitos funcionales)
 quedaron migradas a la wiki. La próxima fuente será lo que se produzca de aquí en
 adelante — código, nuevas decisiones, research externo.
+
+## [2026-07-13] ingest | docs/adr/0007-modelo-de-ramas-main-desplegado-y-develop-como-colchon.md
+
+Página creada: `decisiones/0007-modelo-de-ramas.md`. Enlazada a
+`decisiones/0004-vps-autogestionado` (mismo tema de despliegue continuo). `index.md`
+actualizado. Este es el primer commit del repo — README.md, `.gitignore`, `docs/` y
+`wiki/` completos van juntos a `main`, y de ahí nace `develop` para el trabajo siguiente.

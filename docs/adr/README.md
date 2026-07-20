@@ -10,3 +10,4 @@ Cada archivo documenta una decisión de arquitectura relevante: el contexto que 
 | [0004](0004-vps-autogestionado-en-lugar-de-cloud-gestionado.md) | VPS autogestionado en lugar de cloud gestionado | Aceptada |
 | [0005](0005-monorepo-en-lugar-de-repos-separados.md) | Monorepo en lugar de repos separados | Aceptada |
 | [0006](0006-keycloak-en-lugar-de-auth0-o-auth-propio.md) | Keycloak autogestionado en lugar de Auth0/Clerk o auth propio | Aceptada |
+| [0007](0007-modelo-de-ramas-main-desplegado-y-develop-como-colchon.md) | Modelo de ramas: `main` desplegado y `develop` como colchón | Aceptada |

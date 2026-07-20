@@ -48,6 +48,7 @@
 - [[decisiones/0004-vps-autogestionado]] — VPS autogestionado en lugar de cloud gestionado.
 - [[decisiones/0005-monorepo]] — Monorepo en lugar de repos separados.
 - [[decisiones/0006-keycloak]] — Keycloak autogestionado en lugar de Auth0/Clerk o auth propio.
+- [[decisiones/0007-modelo-de-ramas]] — Modelo de ramas: `main` desplegado y `develop` como colchón.
 
 ## Glosario
 
