@@ -1,0 +1,31 @@
+# Java / Gradle (backend)
+build/
+.gradle/
+out/
+*.class
+!gradle/wrapper/gradle-wrapper.jar
+
+# Node / Next.js (frontend)
+node_modules/
+.next/
+dist/
+
+# Variables de entorno y secretos — nunca commitear
+.env
+.env.local
+.env.*.local
+application-local.yml
+application-secrets.yml
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Obsidian — estado de la ventana/plugins, no contenido del proyecto
+wiki/.obsidian/workspace*.json
+wiki/.obsidian/cache/
