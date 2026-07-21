@@ -26,6 +26,11 @@ application-secrets.yml
 .DS_Store
 Thumbs.db
 
+# Artefactos de descarga (ej. el .zip de Spring Initializr)
+*.zip
+# Alternate data streams que NTFS agrega a archivos bajados de internet
+*:Zone.Identifier
+
 # Obsidian — estado de la ventana/plugins, no contenido del proyecto
 wiki/.obsidian/workspace*.json
 wiki/.obsidian/cache/
